@@ -1,4 +1,4 @@
 # SHN-TKinter
 
 
-#it is tkinter software for remove and edit the background if an Image
+#it is TKinter software for remove and edit the background of an Image
